@@ -14,7 +14,7 @@ namespace dotnet_pilha
         {
             if (primeiro == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha esta vazia");
             }
 
             object resultado = primeiro.item;

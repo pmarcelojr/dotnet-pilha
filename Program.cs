@@ -13,6 +13,7 @@ namespace dotnet_pilha
             Console.WriteLine(pilha.Desempilha());
             Console.WriteLine(pilha.Desempilha());
             Console.WriteLine(pilha.Desempilha());
+            Console.WriteLine(pilha.Desempilha());
         }
     }
 }
